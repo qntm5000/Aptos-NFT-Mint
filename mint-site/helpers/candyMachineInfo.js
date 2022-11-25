@@ -6,8 +6,8 @@ export const COLLECTION_SIZE = 3200
 
 // To remove the background of the dapp to a solid color just delete the "collectionCoverUrl" url below
 // Any hosted image can be used
-export const collectionCoverUrl = "https://r2aa42v3uaweghlsqfqb4d3vr6vh7egqqhnb3fqxhnigfxkxlcya.arweave.net/joAOarugLEMdcoFgHg91j6p_kNCB2h2WFztQYt1XWLA";
-export const collectionBackgroundUrl = "https://6wnm7eahnmrz3w3a55pu627ibxus563nsfaykske3uuteyj5h77q.arweave.net/9ZrPkAdrI53bYO9fT2voDeku-22RQYVJRN0pMmE9P_8";
+export const collectionCoverUrl = "https://ibb.co/q1Tpvqf";
+export const collectionBackgroundUrl = "https://ibb.co/h2nQ3bP";
 
 export const mode = "dev"; // "dev" or "test" or "mainnet"
 export let NODE_URL;
