@@ -6,8 +6,8 @@ export const COLLECTION_SIZE = 3200
 
 // To remove the background of the dapp to a solid color just delete the "collectionCoverUrl" url below
 // Any hosted image can be used
-export const collectionCoverUrl = "https://ibb.co/q1Tpvqf";
-export const collectionBackgroundUrl = "https://ibb.co/h2nQ3bP";
+export const collectionCoverUrl = "https://i.ibb.co/ysHqrv1/nfts.gif";
+export const collectionBackgroundUrl = "https://i.ibb.co/8PRv1qW/background.webp";
 
 export const mode = "dev"; // "dev" or "test" or "mainnet"
 export let NODE_URL;
