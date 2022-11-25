@@ -1,8 +1,8 @@
 export const candyMachineAddress = "0xaae2fdba212b79cac0559a232064e22da1340c1435728bbca0d881a4d84d6361";
 
-export const collectionName = "Test101"; // Case sensitive!
-export const MaxMint = 3
-export const COLLECTION_SIZE = 10 
+export const collectionName = "XCORP"; // Case sensitive!
+export const MaxMint = 2
+export const COLLECTION_SIZE = 3200 
 
 // To remove the background of the dapp to a solid color just delete the "collectionCoverUrl" url below
 // Any hosted image can be used

@@ -215,8 +215,8 @@ export default function Home() {
     <div className="bg-gray-500">
       <div className={styles.container}>
         <Head>
-          <title>Nevermores Mint</title>
-          <meta name="description" content="Nevermores Mint" />
+          <title>Powered by OG LABZ</title>
+          <meta name="description" content="XCORP Mint" />
           <link rel="icon" href="/favicon.ico" />
           <link rel="preconnect" href="https://fonts.googleapis.com" />
           <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin />
