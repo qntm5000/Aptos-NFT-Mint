@@ -1,32 +1,32 @@
 {
     "storage": {
-        "solution": "pinata",
+        "solution": "arweave",
         "pinata": {
             "pinataApi": "https://api.pinata.cloud/pinning/pinFileToIPFS",
-            "pinataPublicKey": "caf083c32d25b6341e1f",
-            "pinataSecretKey": "51fa3982ec3245d1c56f02c6d55e425bc8ade0ffc1eb117e93bb09ec1a517d25"
+            "pinataPublicKey": "6dcf49884060656d6a78",
+            "pinataSecretKey": "aeab15e40ef1f79c09f04fb4838d90e9b7bbced9e533ec887f6322841dd80c16"
         },
         "arweave": {
-            "keyfilePath": "/Users/Shared/arweave-keyfile.json"
+            "keyfilePath": "/home/qntm/Downloads/arconnect-config-2022-11-26.txt"
         }
     },
     "candymachine": {
-        "cmPublicKey": "0xfadbeab921d95f08d2499f674e7ef4f207e57aa063b690399b19162a6080a698",
-        "cmPrivateKey": "0xff9bb002e70e4a0824a1561894299359fd5241b9c9bdf4cd6550a8dd6c1f359d"
+        "cmPublicKey": "0x73d06ecfd6e4f6dfae5054b76561cb3cd89c5817d88bfc7acfe8ff58fb73f8ef",
+        "cmPrivateKey": "0x9182d9729cb57f744b475b36a5cfb4a960146e553b09b44d513b95cb6c653289"
     },
     "collection": {
-        "assetDir": "/Users/Shared/assets/images",
-        "metadataDir": "/Users/Shared/assets/metadata",
-        "collectionName": "Test101",
-        "collectionDescription": "placeholder",
-        "collectionCover": "https://cloudflare-ipfs.com/ipfs/QmWHRdp9svU916CMBicNnFn8CZbYHKV5CK9fcrRteNVJMz",
-        "collectionSize": 10,
-        "maxMintPerWallet": 100,
+        "assetDir": "/home/qntm/Aptos-NFT-Mint/assets/images",
+        "metadataDir": "/home/qntm/Aptos-NFT-Mint/assets/metadata",
+        "collectionName": "XCORP",
+        "collectionDescription": "XCORP is bringing innovation to the fashion industry by utilizing web3 technology to prevent brand counterfeits. Join our community of streetwear enthusiasts and collectors to take part in the journey of bridging web2 to web3.",
+        "collectionCover": "https://cloudflare-ipfs.com/ipfs/QmVncWahsmKWAvv8dAegBtqmEN4UM1EJxCyhk1o18U6GEj",
+        "collectionSize": 14,
+        "maxMintPerWallet": 2,
         "mintFee": 0,
         "royalty_points_denominator": 1000,
-        "royalty_points_numerator": 60,
-        "presaleMintTime": 0,
-        "publicMintTime": 0,
-        "whitelistDir": "../../"
+        "royalty_points_numerator": 88,
+        "presaleMintTime": 1669482900,
+        "publicMintTime": 1669483500,
+        "whitelistDir": "/home/qntm/XCORP"
     }
 }

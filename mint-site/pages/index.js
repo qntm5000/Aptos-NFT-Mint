@@ -266,7 +266,7 @@ export default function Home() {
                 <h6>{MaxMint}</h6>
               </div>
               <div className={styles.spacebetween}>
-                <h6>Presale Mint:</h6>
+                <h6>Holder Mint:</h6>
                 <h6>{timeLeftToMint.presale === "LIVE" ? "LIVE" : timeLeftToMint.presale.days + " d : " + timeLeftToMint.presale.hours + " h : " + timeLeftToMint.presale.minutes + " m : " + timeLeftToMint.presale.seconds + " s"}</h6>
               </div>
               <div className={styles.spacebetween}>

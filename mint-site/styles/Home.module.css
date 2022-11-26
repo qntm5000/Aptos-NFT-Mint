@@ -139,7 +139,7 @@
 }
 
 .button:hover {
-  background: rgb(0, 128, 0, .5);
+  background: rgb(255, 0, 242);
 }
 
 .button:disabled {
